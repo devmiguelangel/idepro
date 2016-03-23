@@ -1,0 +1,13 @@
+<?php
+class ConfigurationSibas
+{
+	public $host = 'localhost';
+	public $user = 'user';
+	public $password = 'password';
+	public $db = 'db';
+	public $dbPrefix = 'hvm_';
+	public $mailFrom = 'cchalco@coboser.com';
+	public $fromName = 'root';
+	
+}
+?>
