@@ -1,0 +1,8 @@
+@S#1$2013|pcari|Idepro123|Piter Gerzon  Cari Alvarado|pcari@idepro.org
+@S#1$2013|rvelasco|Idepro123|Renzo Velasco Leon|rvelasco@idepro.org
+@S#1$2013|gsagredo|Idepro123|Graciela Sagredo Rodriguez|gsagredo@idepro.org
+@S#1$2013|jmarca|Idepro123|Janeth Clara Marca Alfaro|jmarca@idepro.org
+@S#1$2013|rsubelza|Idepro123|Rosse Mary Subelza Cruz|rsubelza@idepro.org 
+@S#1$2013|curzagaste|Idepro123|Clarivel Urzagaste Portales|curzagaste@idepro.org 
+@S#1$2013|emarquez|Idepro123|Eva Maria Marquez|emarquez@idepro.org 
+@S#1$2013|caguirre|Idepro123|Candelaria Aguirre Zeballos|caguirre@idepro.org   

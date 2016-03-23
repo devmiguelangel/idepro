@@ -1,0 +1,5 @@
+@S#1$2013|fmontesinos|Idepro123|Fernando Montecinos|fmontesinos@idepro.org
+@S#1$2013|jmamani|Idepro123|Jhonny Mamani|jmamani@idepro.org
+@S#1$2013|lavendano|Idepro123|Laura Avendaño|lavendaño@idepro.org
+@S#1$2013|cromano|Idepro123|Cintia Romano|cromano@idepro.org
+@S#1$2013|eortuno|Idepro123|Estela Ortuño|eortuno@idepro.org

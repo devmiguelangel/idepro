@@ -1,0 +1,19 @@
+@S#1$2013|jsoto|Idepro123|Soto Zarate Jhenny Isabel|jsoto@idepro.org
+@S#1$2013|lpoma|Idepro123|Poma Huanca Lourdes Eliana|lpoma@idepro.org
+@S#1$2013|mgarcia|Idepro123|García Valdivia Marcelo Guillermo|mgarcia@idepro.org
+@S#1$2013|wrios|Idepro123|Wilfredo Rios Cruz|wrios@idepro.org
+@S#1$2013|eroman|Idepro123|Román Aymaya Eduardo|eroman@idepro.org
+@S#1$2013|mtejerina|Idepro123|Tejerina Soto María Cristina|mtejerina@idepro.org
+@S#1$2013|fvillegas|Idepro123|Villegas Montaño Freddy |fvillegas@idepro.org
+@S#1$2013|jvargas|Idepro123|Vargas Flores Jawer|jvargas@idepro.org
+@S#1$2013|emollinedo|Idepro123|Edson Mollinedo|emollinedo@idepro.org
+@S#1$2013|lnoya|Idepro123|Noya Ribadineira Lizeth Blanca|lnoya@idepro.org
+@S#1$2013|jsantos|Idepro123|José Santos Pacheco Veizan|
+@S#1$2013|gcairo|Idepro123|Gabriela Rossy Cairo Quino|
+@S#1$2013|pluna|Idepro123|Paola Cristina Luna Jiménez|
+@S#1$2013|pgoytia|Idepro123|Paulino Goytia|pgoytia@idepro.org
+@S#1$2013|rcondori|Idepro123|Condori Capuma Roberto|rcondori@idepro.org
+@S#1$2013|jveizaga|Idepro123|Veizaga Rodriguez Juan David|jveizaga@idepro.org
+@S#1$2013|rvillegas|Idepro123|Villegas Fernandez Reynaldo|rvillegas@idepro.org
+@S#1$2013|fmendoza|Idepro123|Mendoza Guillermo Franz|fmendoza@idepro.org
+@S#1$2013|jacha|Idepro123|Jhonny Acha Hualca|

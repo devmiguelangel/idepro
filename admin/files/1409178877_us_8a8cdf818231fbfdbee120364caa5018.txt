@@ -1,0 +1,5 @@
+@S#1$2013|boxa|Idepro123|Bernardo Oxa Cayo|boxa@idepro.org
+@S#1$2013|jprada|Idepro123|Jhael Amparo Prada Poma|jprada@idepro.org
+@S#1$2013|csilvestre|Idepro123|Cesar  Teodocio Silvestre Pérez|csilvestre@idepro.org
+@S#1$2013|rpimentel|Idepro123|René Moisés Pimentel Flores|rpimentel@idepro.org
+@S#1$2013|pbello|Idepro123|Prax Diodoro Bello Ayaviri|pbello@idepro.org
